@@ -1,3 +1,11 @@
+# ignore this 
+* 
 
 
-!*.txt
+# excpet this 
+!*.c
+!*.h
+
+
+# even if it in sub folder
+!*/
